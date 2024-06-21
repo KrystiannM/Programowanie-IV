@@ -4,7 +4,7 @@ using System.Reactive.Linq;
 using ToDoList.DataModel;
 using ToDoList.Services;
 
-namespace ToDoList.ViewModels
+namespace ToDoList.ViewModels;
 {
     public class MainWindowViewModel : ViewModelBase
     {
