@@ -2,7 +2,7 @@
 using Avalonia.ReactiveUI;
 using System;
 
-namespace ToDoList
+namespace ToDoList;
 {
     internal sealed class Program
     {
